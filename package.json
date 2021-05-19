@@ -63,7 +63,7 @@
     "yargs-parser": "^20.0.0"
   },
   "devDependencies": {
-    "@types/node": "^14.0.18",
+    "@types/node": "^15.3.1",
     "@types/tap": "^14.10.0",
     "concurrently": "^5.1.0",
     "fastify-autoload": "^3.0.2",
